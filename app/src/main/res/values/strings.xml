@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GroupToDistribute</string>
+    <string name="doneButtonString">振り分け実行</string>
+    <string name="groupNumberValue">何組？</string>
+    <string name="groupNumber">分ける組数</string>
+    <string name="tourokuButtonText">登録</string>
+    <string name="stringToInputName" />
+    <string name="deleteString">削除</string>
+    <string name="nameString1" />
+    <string name="nameInputHint">名前を入力してください。</string>
+    <string name="teamNameString">A</string>
+    <string name="memberNameString">Aさん</string>
+</resources>
